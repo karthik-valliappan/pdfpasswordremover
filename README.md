@@ -9,19 +9,19 @@ To use PDF Password Remover, you need to have Python and Pip installed. You can 
 ```bash
 pipenv install
 
-Usage
+## Usage
 PDF Password Remover can be used from the command line as follows:
 
 python decrypt_pdf.py input.pdf password
 
 The decrypted PDF will be saved as input-decrypt.pdf in the same directory.
 
-About
+## About
 PDF Password Remover is a lightweight utility for removing password protection from PDF files. It’s useful when you need to work with password-protected PDFs but want to remove the encryption temporarily.
 
 Feel free to contribute or report issues if you find any!
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
